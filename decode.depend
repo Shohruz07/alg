@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1675787122 source:c:\users\hp\desktop\decode\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<stack>
+	<queue>
+	<assert.h>
+	<locale.h>
+	<windows.h>
+	<fstream>
+
